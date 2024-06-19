@@ -12,4 +12,4 @@ Program to print single character on screen.
 Program to print name character by character.
 
 ### 4. ASS2.asm:
-
+Program to take input and print it on screen.
