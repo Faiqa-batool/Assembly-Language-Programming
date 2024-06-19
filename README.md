@@ -7,3 +7,6 @@ Only for single character output
 
 ### 2. ASS1.asm:
 Program to print single character on screen.
+
+### 3. ASS2.asm:
+Program to print name character by character.
