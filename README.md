@@ -1,9 +1,9 @@
 # Assembly-Language-Programming
 
-### 1. ADDF.asm:
+#### 1. ADDF.asm:
 Program to add two numbers and print.
-#### Limitation: 
+##### Limitation: 
 Only for single character output
 
-### 2. ASS1.asm:
+#### 2. ASS1.asm:
 Program to print single character on screen.
