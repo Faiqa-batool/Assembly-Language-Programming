@@ -18,4 +18,4 @@ Program to take input and print it on screen.
 Program to take input of two numbers, add them and show the output on screen.
 
 ### 6. L1.asm:
-Program to print A string using array.
+Program to print a string using array.
