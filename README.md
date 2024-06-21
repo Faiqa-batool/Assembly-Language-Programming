@@ -13,3 +13,6 @@ Program to print name character by character.
 
 ### 4. ASS3.asm:
 Program to take input and print it on screen.
+
+### 5. ASS4.asm:
+Program to take input of two numbers, add them and show the output on screen.
