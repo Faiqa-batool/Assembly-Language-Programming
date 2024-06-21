@@ -19,3 +19,4 @@ Program to take input of two numbers, add them and show the output on screen.
 
 ### 6. L1.asm:
 Program to print a string using array.
+It prints vowels.
