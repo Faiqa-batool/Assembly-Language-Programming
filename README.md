@@ -27,4 +27,4 @@ It prints vowels.
 Program to print a to z using a loop.
 
 ### LAB5P1.asm:
-Program to take input a number and compare it with a predefined number
+Program to take input a number and compare it with a predefined number.
